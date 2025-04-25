@@ -1,0 +1,48 @@
+CUSTOMER SEGMENTATION ANALYSIS RESULTS
+=====================================
+
+Cluster Segments Identified:
+  - Cluster 0: Segment 0 (2951 customers, 68.0%)
+  - Cluster 1: High-Value Loyal Customers (1387 customers, 32.0%)
+
+Detailed Segment Profiles and Recommendations:
+
+
+=== Cluster 0 (Segment 0): 2951 customers (68.0%) ===
+
+Key Characteristics:
+  - Average spend: $493.34 total ($272.64 per order)
+  - Order frequency: 2.0 orders
+  - Last purchase: 117.6 days ago
+  - Top countries: United Kingdom, Germany, France
+
+Recommended Actions:
+  - Conduct further analysis to better understand this segment
+  - Test different marketing approaches to identify what resonates
+  - Monitor changes in behavior over time
+  - Consider splitting this segment for more targeted strategies
+  - Consider country-specific campaigns for United Kingdom
+
+
+=== Cluster 1 (High-Value Loyal Customers): 1387 customers (32.0%) ===
+
+Key Characteristics:
+  - Average spend: $5375.31 total ($730.92 per order)
+  - Order frequency: 9.1 orders
+  - Last purchase: 36.0 days ago
+  - Top countries: United Kingdom, Germany, France
+
+Recommended Actions:
+  - Implement a premium loyalty program with exclusive benefits
+  - Offer early access to new products and collections
+  - Provide personalized shopping experiences and dedicated service
+  - Create referral incentives to leverage their network
+  - Consider country-specific campaigns for United Kingdom
+
+
+Overall Strategic Recommendations:
+  1. Implement personalized marketing strategies for each identified segment
+  2. Develop a comprehensive loyalty program with tiered benefits
+  3. Create targeted content and promotions based on segment characteristics
+  4. Establish regular monitoring of segment evolution and customer migration
+  5. Test and measure the effectiveness of segment-specific campaigns
